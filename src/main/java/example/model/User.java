@@ -4,7 +4,7 @@ import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 
 /**
- * Created by 李恒名 on 2016/10/13.
+ * Created by hxy
  */
 @ApiModel("User(用户模型)")
 public class User {
