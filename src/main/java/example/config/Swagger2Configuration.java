@@ -29,7 +29,7 @@ public class Swagger2Configuration {
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
                 .title("Spring Boot中使用Swagger2 UI构建API文档")
-                .contact("土豆")
+                .contact("hxy")
                 .version("1.0")
                 .build();
     }
